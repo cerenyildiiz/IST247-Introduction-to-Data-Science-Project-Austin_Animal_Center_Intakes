@@ -24,6 +24,7 @@ This project is the end-of-term final project of the course called Introduction 
 We also know that order is very important in the reporting phase of a project. A Gantt Chart is used to ensure this.
 # Gantt Chart
 A Gantt chart is used to illustrate project tasks and their timing. It can be explained simply. First, it answers the question of when what will be done. Another function is to display the tasks in the project sequentially. It also indicates the duration of each task and the dates between which they will be completed.It allows us to easily see tasks that start simultaneously or follow each other.Finally, it is used to track who is doing which task and whether there are any delays.In other words, a Gantt chart visually presents a project's timeline and facilitates regular task tracking. Because this method provides a more detailed view of the task assignment stages, it can be said to be valuable in various organizations, demonstrating who is doing what and how. Therefore, because it demonstrates the order of the work being done, we should embrace this method in our work.
+<img width="1980" height="1177" alt="image" src="https://github.com/user-attachments/assets/5109fc10-614c-4388-a5b1-05f44e10cd11" />
 
 
 # Graphs
