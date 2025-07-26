@@ -1,5 +1,30 @@
 # IST247-Introduction-to-Data-Science-Project-Austin_Animal_Center_Intakes
 This project is the end-of-term final project of the course called Introduction to Data Science, also coded IST247.
+<img width="515" height="168" alt="image" src="https://github.com/user-attachments/assets/ba1397ec-86ad-4304-aa58-858363f6062c" />
+
+***I would like to start by explaining two stages.***
+
+***1.Question***
+
+**In this step, we need to determine the questions we will analyze for later use.Our basic questions are:**
+
+**● Which animal species are most frequently found in the shelter?**
+
+**● Are age and species effective in leaving the shelter?**
+
+**● What are the types and reasons why animals leave the shelter?**
+
+-   **And in what age range are these reasons more common? What does it depend on?**
+
+***2.Exploratory Data Analysis(EDA)***
+
+ In order to answer the questions we ask, we need to go through the EDA process. In this section, analysis and visualizations are made. First of all, it is necessary to do some coding in R to do exploratory data analysis. I am sorry about this image because it does not look very smooth in the file. I am not doing my analysis in detail at this stage. Despite this, I have listed my codes below in order to make them look neater. 
+
+We also know that order is very important in the reporting phase of a project. A Gantt Chart is used to ensure this.
+# Gantt chart
+A Gantt chart is used to illustrate project tasks and their timing. It can be explained simply. First, it answers the question of when what will be done. Another function is to display the tasks in the project sequentially. It also indicates the duration of each task and the dates between which they will be completed.It allows us to easily see tasks that start simultaneously or follow each other.Finally, it is used to track who is doing which task and whether there are any delays.In other words, a Gantt chart visually presents a project's timeline and facilitates regular task tracking. Because this method provides a more detailed view of the task assignment stages, it can be said to be valuable in various organizations, demonstrating who is doing what and how. Therefore, because it demonstrates the order of the work being done, we should embrace this method in our work.
+
+
 # Graphs
 ```{r setup, include=TRUE}
 options(repos = c(CRAN = "https://cran.rstudio.com/"))
