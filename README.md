@@ -302,3 +302,9 @@ view(create_bar_plot())
 ```
 <img width="757" height="468" alt="image" src="https://github.com/user-attachments/assets/75dab26a-1540-44a3-bb91-4cbee0c20c32" />
 
+<img width="757" height="468" alt="image" src="https://github.com/user-attachments/assets/b28326c5-22aa-476f-a075-b95a42e19783" />
+
+<img width="757" height="468" alt="image" src="https://github.com/user-attachments/assets/3bee8795-3627-43c1-900b-4e4fe0aa5a6f" />
+<img width="875" height="540" alt="image" src="https://github.com/user-attachments/assets/957a2353-ce91-4bfa-9395-4a3c23ffbe47" />
+<img width="875" height="540" alt="image" src="https://github.com/user-attachments/assets/8fe23047-8e37-4ae3-931d-2af014e0af57" />
+<img width="875" height="540" alt="image" src="https://github.com/user-attachments/assets/d29fa974-d1a8-4583-9cc9-ad2231988c2f" />
